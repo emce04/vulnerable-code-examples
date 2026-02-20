@@ -2,7 +2,7 @@
 # cryptanalysis, they are not vulnerable to well-known attacks like 
 # brute force attacks for example.
 
-# It’s not recommended to use algorithm with a block size inferior 
+# It not recommended to use algorithm with a block size inferior 
 # than 128 bits.
 
 import os
